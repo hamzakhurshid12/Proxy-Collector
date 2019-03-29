@@ -1,0 +1,1 @@
+The application scrapes and collects latest proxies from various proxy rotation websites, thus creating our own proxies database.
